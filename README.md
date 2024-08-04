@@ -12,12 +12,12 @@ This repository contains a collection of Power BI reports and datasets used for 
    - **Usage**: Open with Power BI Desktop to review mission performance, timelines, and success rates.
 ![Screenshot (47)](https://github.com/user-attachments/assets/499344b8-b15c-4bca-86da-7e9395f281b9)
 
-2. **amazon analysis.pbix**
+2. **Amazon analysis.pbix**
    - **Description**: This Power BI report focuses on analyzing Amazon sales data. It includes visualizations and dashboards that provide insights into sales performance, product trends, and customer behavior.
    - **Usage**: Open with Power BI Desktop to interact with sales dashboards and reports for Amazon-related data.
 ![Screenshot (50)](https://github.com/user-attachments/assets/7ae9a3e7-85ff-4dfe-b491-45bc8390dc0a)
 
-3. **flipkart.pbix**
+3. **Flipkart.pbix**
    - **Description**: This Power BI report includes analysis of Flipkart sales data. It presents key metrics and trends for Flipkart’s sales performance.
    - **Usage**: Open with Power BI Desktop to explore sales data, visualize trends, and analyze Flipkart’s performance.
  ![Screenshot (49)](https://github.com/user-attachments/assets/50b8baa7-5633-4463-a1e4-92a74d454495)
